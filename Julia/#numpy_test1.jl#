@@ -1,8 +1,0 @@
-#=Testing NumPy=#
-import numpy as np
-import matplotlib.pyplot as plt
-a = np.array([1,2,3])
-a
-type(a)
-a.dtype
-
