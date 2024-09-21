@@ -1,0 +1,11 @@
+/home/angel/Documentos/CC/Programming_Languages/Rust/guess_number/target/debug/deps/libppv_lite86-b896a4ae66c71973.rmeta: /home/angel/.cargo/registry/src/index.crates.io-6f17d22bba15001f/ppv-lite86-0.2.20/src/lib.rs /home/angel/.cargo/registry/src/index.crates.io-6f17d22bba15001f/ppv-lite86-0.2.20/src/soft.rs /home/angel/.cargo/registry/src/index.crates.io-6f17d22bba15001f/ppv-lite86-0.2.20/src/types.rs /home/angel/.cargo/registry/src/index.crates.io-6f17d22bba15001f/ppv-lite86-0.2.20/src/x86_64/mod.rs /home/angel/.cargo/registry/src/index.crates.io-6f17d22bba15001f/ppv-lite86-0.2.20/src/x86_64/sse2.rs
+
+/home/angel/Documentos/CC/Programming_Languages/Rust/guess_number/target/debug/deps/libppv_lite86-b896a4ae66c71973.rlib: /home/angel/.cargo/registry/src/index.crates.io-6f17d22bba15001f/ppv-lite86-0.2.20/src/lib.rs /home/angel/.cargo/registry/src/index.crates.io-6f17d22bba15001f/ppv-lite86-0.2.20/src/soft.rs /home/angel/.cargo/registry/src/index.crates.io-6f17d22bba15001f/ppv-lite86-0.2.20/src/types.rs /home/angel/.cargo/registry/src/index.crates.io-6f17d22bba15001f/ppv-lite86-0.2.20/src/x86_64/mod.rs /home/angel/.cargo/registry/src/index.crates.io-6f17d22bba15001f/ppv-lite86-0.2.20/src/x86_64/sse2.rs
+
+/home/angel/Documentos/CC/Programming_Languages/Rust/guess_number/target/debug/deps/ppv_lite86-b896a4ae66c71973.d: /home/angel/.cargo/registry/src/index.crates.io-6f17d22bba15001f/ppv-lite86-0.2.20/src/lib.rs /home/angel/.cargo/registry/src/index.crates.io-6f17d22bba15001f/ppv-lite86-0.2.20/src/soft.rs /home/angel/.cargo/registry/src/index.crates.io-6f17d22bba15001f/ppv-lite86-0.2.20/src/types.rs /home/angel/.cargo/registry/src/index.crates.io-6f17d22bba15001f/ppv-lite86-0.2.20/src/x86_64/mod.rs /home/angel/.cargo/registry/src/index.crates.io-6f17d22bba15001f/ppv-lite86-0.2.20/src/x86_64/sse2.rs
+
+/home/angel/.cargo/registry/src/index.crates.io-6f17d22bba15001f/ppv-lite86-0.2.20/src/lib.rs:
+/home/angel/.cargo/registry/src/index.crates.io-6f17d22bba15001f/ppv-lite86-0.2.20/src/soft.rs:
+/home/angel/.cargo/registry/src/index.crates.io-6f17d22bba15001f/ppv-lite86-0.2.20/src/types.rs:
+/home/angel/.cargo/registry/src/index.crates.io-6f17d22bba15001f/ppv-lite86-0.2.20/src/x86_64/mod.rs:
+/home/angel/.cargo/registry/src/index.crates.io-6f17d22bba15001f/ppv-lite86-0.2.20/src/x86_64/sse2.rs:
