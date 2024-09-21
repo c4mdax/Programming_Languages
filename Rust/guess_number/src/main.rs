@@ -21,6 +21,6 @@ fn main() {
     };
 
     let random_number = bot.generate_random(10);
-    println!("Hello, I")
+    println!("Hello, I'm {}", bot.name)
     println!("Random number: {}",random_number);
 }
