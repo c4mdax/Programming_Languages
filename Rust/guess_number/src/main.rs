@@ -44,6 +44,7 @@ fn main() {
     println!("You have {} questions to guess the number between 0 and {}.", questions, number_input);
 
     let mut remaining_questions = questions;
+
     while remaining_questions > 0 {
         let mut guess = String::new();
         println!("Enter your guess:");

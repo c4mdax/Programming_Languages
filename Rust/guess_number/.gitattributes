@@ -1,0 +1,16 @@
+*.md linguist-documentation
+*.toml linguist-vendored
+*.sbt linguist-vendored
+*.properties linguist-vendored
+*.zip linguist-vendored 
+*.class linguist-vendored
+*.tast linguist-vendored
+*.jar linguist-vendored
+*.cache linguist-vendored
+*.d linguist-vendored
+*.o linguist-vendored
+*.lock linguist-vendored
+*.rlib linguist-vendored
+*.rmeta linguist-vendored
+*.so linguist-vendored
+*.timestamp linguist-vendored
