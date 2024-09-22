@@ -26,20 +26,16 @@ fn main() {
     let mut input = String::new();
     let mut question_limit = String::new();
 
-    // Mostrar bienvenida
     println!("Hello! I'm {}", bot.name);
     println!("{}", welcome_message);  // Imprime el mensaje completo
     println!("First, set the limit for the random number:");
 
-    // Leer el límite del número aleatorio
     io::stdin().read_line(&mut input)
         .expect("Error to read your input");
     let number_input: i32 = input.trim().parse().expect("Set a valid number");
 
-    // Generar el número aleatorio basado en el límite del usuario
     let random_number = bot.generate_random(number_input);
 
-    // Leer el límite de preguntas
     println!("Good! Now set your question limit:");
     io::stdin().read_line(&mut question_limit)
         .expect("Error to read your input");
@@ -47,7 +43,6 @@ fn main() {
 
     println!("You have {} questions to guess the number between 0 and {}.", questions, number_input);
 
-    // Lógica del juego de adivinanza
     let mut remaining_questions = questions;
     while remaining_questions > 0 {
         let mut guess = String::new();
