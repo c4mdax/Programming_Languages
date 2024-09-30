@@ -2,6 +2,5 @@
 ## Repository for programming languages exercises.
 - Rust
 - Go
-- Scala
 - R 
 - Julia
