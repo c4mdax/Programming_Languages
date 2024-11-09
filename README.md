@@ -4,3 +4,4 @@
 - Go
 - R 
 - Julia
+- SQL
