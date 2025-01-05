@@ -5,3 +5,4 @@
 - R 
 - Julia
 - SQL
+- Python (for Backend)
