@@ -13,3 +13,10 @@ async def user():
 @app.get("/email")
 async def email():
     return {"user_ID" : "email"}
+
+@app.get("/users")
+async def users():
+    return [{"user" : "Angel", "email" : "angel@example.com"},
+            {"user" : "Gut", "email" : "gut@example.com"},
+            {"user" : "Plot", "email" : "plot@example.com"}
+            ]

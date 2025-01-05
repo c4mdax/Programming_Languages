@@ -1,0 +1,25 @@
+from fastapi import FastAPI
+from pydantic import BaseModel
+
+class User(BaseModel):
+    name:str
+    email:str
+    user_id:int
+
+app = FastAPI()
+users_list = [User(name="Angel", email="angel@example.com", user_id=3211412),
+              User(name="Pan", email="pan@example.com", user_id=3215412),
+              User(name="Tostada", email="tostada@example.com", user_id=4251412)
+              ]
+@app.get("/users")
+async def users():
+    return [User(name="Angel", email="angel@example.com", user_id=3211412),
+            User(name="Pan", email="pan@example.com", user_id=3144212),
+            User(name="Tostada", email="tostada@example.com", user_id=4412142)
+            ]
+
+@app.get("/users/{user_id}")
+async def users_id(user_id: int):
+    user = filter(lambda user:user.user_id == user_id, users_list)
+    return list(user)
+
